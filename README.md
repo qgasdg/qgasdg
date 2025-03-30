@@ -1,10 +1,9 @@
 <div align="center">
   ## Hi there 👋
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qgasdg&layout=compact&theme=codeSTACKr"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=qgasdg&show_icons=true&theme=radical"/>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qgasdg&layout=compact&theme=dark)\
-![qgasdg's GitHub stats](https://github-readme-stats.vercel.app/api?username=qgasdg&show_icons=true&theme=radical)
 <!--
 **qgasdg/qgasdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
