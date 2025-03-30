@@ -1,7 +1,7 @@
-<div align="center" markdown="1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qgasdg&layout=compact&theme=codeSTACKr"/>
-  ![dx0802](https://github-readme-tistory-card.vercel.app/api/badge?name=qgasdg&theme=default)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qgasdg&layout=compact&theme=codeSTACKr" alt=""/>
 </div>
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name}&theme={insert_theme})](https://github.com/loosie/github-readme-tistory-card)
 
 <!--
 **qgasdg/qgasdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
