@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qgasdg&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qgasdg&layout=compact)\
 ![qgasdg's GitHub stats](https://github-readme-stats.vercel.app/api?username=qgasdg&show_icons=true&theme=radical)
 
 
