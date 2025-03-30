@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qgasdg&layout=compact&theme=codeSTACKr"/>
-  <img src="https://img.shields.io/badge/Tistory-#000000?style=for-the-badge&logo=tistory&logoColor=white">
+  ![dx0802](https://github-readme-tistory-card.vercel.app/api/badge?name=qgasdg&theme=default)
 </div>
 
 <!--
