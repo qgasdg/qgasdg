@@ -1,10 +1,16 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qgasdg&layout=compact&theme=codeSTACKr" alt=""/>
 </div>
-<div>
-Contribution<br>
-Status: In progress...
 
+<h3>
+Contribution  
+</h3>
+
+<h4>
+Status: In progress...  
+</h4>
+
+<div>
 CTP Operating Team: Managing Contest Team / Coding Test Team
 
 Department of AI Engineering Student Council: Academic Division Member
