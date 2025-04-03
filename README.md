@@ -2,7 +2,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qgasdg&layout=compact&theme=codeSTACKr" alt=""/>
 </div>
 <div>
-Contribution
+Contribution<br>
 Status: In progress...
 
 CTP Operating Team: Managing Contest Team / Coding Test Team
