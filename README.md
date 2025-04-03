@@ -11,10 +11,8 @@ Status: In progress...
 </h4>
 
 <div>
-CTP Operating Team: Managing Contest Team / Coding Test Team
-
-Department of AI Engineering Student Council: Academic Division Member
-
+CTP Operating Team: Managing Contest Team / Coding Test Team <br>
+Department of AI Engineering Student Council: Academic Division Member <br>
 Leading AI Engineering Python Study
 </div>
 
