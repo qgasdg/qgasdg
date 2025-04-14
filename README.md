@@ -1,20 +1,21 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qgasdg&layout=compact&theme=codeSTACKr" alt=""/>
-</div>
+# Profile
 
-<h3>
-Contribution  
-</h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qgasdg&layout=compact&theme=codeSTACKr)
 
-<h4>
-Status: In progress...  
-</h4>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dx0802)](https://solved.ac/dx0802/)
 
-<div>
-CTP Operating Team: Managing Contest Team / Coding Test Team <br><br>
-Department of AI Engineering Student Council: Academic Division Member <br><br>
-Leading AI Engineering Python Study
-</div>
+## Contribution
+
+### Status: In progress
+
+- **CTP Operating Team**
+  - Managing Contest Team
+  - Coding Test Team
+
+- **Department of AI Engineering Student Council**
+  - Academic Division Member
+
+- **Leading AI Engineering Python Study**
 
 <!--
 **qgasdg/qgasdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
