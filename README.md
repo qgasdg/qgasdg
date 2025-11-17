@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qgasdg&layout=compact&theme=codeSTACKr)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dx0802)](https://solved.ac/dx0802/)
+[![dx0802's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dx0802)](https://solved.ac/profile/dx0802)
 <!--
 ## Contribution
 
