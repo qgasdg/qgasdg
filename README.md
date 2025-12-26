@@ -1,8 +1,4 @@
 # Profile
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qgasdg&layout=compact&theme=codeSTACKr)
-
-[![dx0802's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dx0802)](https://solved.ac/profile/dx0802)
 <!--
 ## Contribution
 
