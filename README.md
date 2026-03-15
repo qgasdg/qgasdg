@@ -1,29 +1,36 @@
-# Profile
-<!--
-## Contribution
+# qgasdg
 
-### Status: In progress
+AI / ML Research & Systems
 
-- **CTP Operating Team**
-  - Managing Contest Team
-  - Coding Test Team
 
-- **Department of AI Engineering Student Council**
-  - Academic Division Member
 
-- **Leading AI Engineering Python Study**
--->
-<!--
-**qgasdg/qgasdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 현재 작업 중
+- Halting-Criterion (Adaptive Computation Research)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 관심사
+- AI / Machine Learning
+- Frontend Design
+- Education / Psychology
+
+
+
+### 연락처
+📧 `dx0802@inha.edu`
+
+---
+
+## Featured Projects
+
+### Halting-Criterion
+Adaptive computation 연구 프로젝트  
+RNN, Universal Transformer 기반 실험
+
+**Tech**  
+![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white)
+![Lightning](https://img.shields.io/badge/Lightning-purple)
+![Weights & Biases](https://img.shields.io/badge/WandB-orange)
+
+**🔗 Repo**  
+[Link](https://github.com/qgasdg/Halting-Criterion)
