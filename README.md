@@ -3,7 +3,7 @@
 **AI / ML Research & Systems**
 
 Undergraduate student in **AI Engineering** at **Inha University** (Junior, Year 3).  
-Conducting research under **Prof. Youngsung Kim**, and working as a developer & manager at **Gangsam Tutoring**.
+Conducting research under **[Prof. Youngsung Kim](https://youngsungkim-ai.github.io/)**, and working as a developer & manager at **Kangsam Tutoring**.
 
 ---
 
