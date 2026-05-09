@@ -7,25 +7,25 @@ Conducting research under **Prof. Youngsung Kim**, and working as a developer & 
 
 ---
 
-### Currently Working On
+### 🔨 Currently Working On
 - **Halting-Criterion** — Teaching models to decide *when to stop* thinking on their own.  
   Currently building the baseline; on hold while reviewing foundational papers.
 
 ---
 
-### Interests
-- **AI / Machine Learning**
-- **Frontend Design**
-- **Education / Psychology**
+### 💡 Interests
+- 🤖 **AI / Machine Learning**
+- 🎨 **Frontend Design**
+- 📚 **Education / Psychology**
 
 ---
 
-### Contact
+### 📬 Contact
 dx0802@inha.edu
 
 ---
 
-## Featured Projects
+## 🗂️ Featured Projects
 
 ### Halting-Criterion
 Research on adaptive computation — the goal is to let models **self-determine their halting point** rather than running a fixed number of steps.  
@@ -45,6 +45,6 @@ A personal **frontend design** project — still a work in progress.
 
 ---
 
-## Stats
+## 📊 Stats
 
 [![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=dx0802)](https://solved.ac/dx0802)
