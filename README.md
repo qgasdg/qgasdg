@@ -13,6 +13,32 @@ Conducting research under **[Prof. Youngsung Kim](https://youngsungkim-ai.github
 
 ---
 
+### 💼 Experience
+
+**Kangsam Tutoring** — Online Teacher & Developer  
+`2025.03 – present`  
+Teaching and handling development & planning tasks.
+
+**affctiv Affective AI Lab** — Undergraduate Researcher  
+`2025.04 – 2026.01`  
+Research on feature selection and Riemannian manifold.
+
+**[Prof. Youngsung Kim](https://youngsungkim-ai.github.io/)'s Lab** — Undergraduate Researcher  
+`2026.01 – present`  
+Research on reasoning models.
+
+---
+
+### 🏆 Awards
+
+**Silver Prize** — Inha University Programming Contest  
+`2025.05` · Dean's Award, College of Software Convergence
+
+**Excellence Award** — Inha University AI Challenge  
+`2025.08` · Director's Award, AI Convergence Research Center
+
+---
+
 ### 💡 Interests
 - 🤖 **AI / Machine Learning**
 - 🎨 **Frontend Design**
