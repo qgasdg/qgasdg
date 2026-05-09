@@ -3,7 +3,7 @@
 **AI / ML Research & Systems**
 
 Undergraduate student in **AI Engineering** at **Inha University** (Junior, Year 3).  
-Conducting research under **[Prof. Youngsung Kim](https://youngsungkim-ai.github.io/)**, and working as a developer & manager at **Kangsam Tutoring**.
+Conducting research under **Prof. Youngsung Kim**, and working as a developer & manager at **Kangsam Tutoring**.
 
 ---
 
@@ -23,7 +23,7 @@ Teaching and handling development & planning tasks.
 `2025.04 – 2026.01`  
 Research on feature selection and Riemannian manifold.
 
-**[Prof. Youngsung Kim](https://youngsungkim-ai.github.io/)'s Lab** — Undergraduate Researcher  
+**Prof. Youngsung Kim's Lab** — Undergraduate Researcher  
 `2026.01 – present`  
 Research on reasoning models.
 
