@@ -105,5 +105,3 @@ Personal blog for frontend design practice and experimentation — built with Ne
 ## 📊 Stats
 
 [![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=dx0802)](https://solved.ac/dx0802)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qgasdg&layout=compact&hide_border=true)
