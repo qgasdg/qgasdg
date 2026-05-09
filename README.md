@@ -104,8 +104,10 @@ Personal blog for frontend design practice and experimentation — built with Ne
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats-alpha-ivory-54.vercel.app/api?username=qgasdg&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats-alpha-ivory-54.vercel.app/api/top-langs/?username=qgasdg&layout=compact&hide_border=true)
-
-[![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=dx0802)](https://solved.ac/dx0802)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats-alpha-ivory-54.vercel.app/api?username=qgasdg&show_icons=true&hide_border=true" /></td>
+    <td><img src="https://github-readme-stats-alpha-ivory-54.vercel.app/api/top-langs/?username=qgasdg&layout=compact&hide_border=true" /></td>
+    <td><a href="https://solved.ac/dx0802"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dx0802" /></a></td>
+  </tr>
+</table>
