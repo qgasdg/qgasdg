@@ -2,35 +2,51 @@
 
 AI / ML Research & Systems
 
+Undergraduate student in AI Engineering at Inha University (Junior, Year 3).  
+Conducting research under Prof. Youngsung Kim, and working as a developer & manager at Gangsam Tutoring.
 
+---
 
-### 현재 작업 중
-- Halting-Criterion (Adaptive Computation Research)
+### Currently Working On
+- **Halting-Criterion** — Teaching models to decide *when to stop* thinking on their own.  
+  Currently building the baseline; on hold while reviewing foundational papers.
 
+---
 
-
-### 관심사
+### Interests
 - AI / Machine Learning
 - Frontend Design
 - Education / Psychology
 
+---
 
-
-### 연락처
-📧 `dx0802@inha.edu`
+### Contact
+dx0802@inha.edu
 
 ---
 
 ## Featured Projects
 
 ### Halting-Criterion
-Adaptive computation 연구 프로젝트  
-RNN, Universal Transformer 기반 실험
+Research on adaptive computation — the goal is to let models self-determine their halting point rather than running a fixed number of steps.  
+Based on RNN and Universal Transformer architectures.
 
 **Tech**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white)
 ![Lightning](https://img.shields.io/badge/Lightning-purple)
 ![Weights & Biases](https://img.shields.io/badge/WandB-orange)
 
-**🔗 Repo**  
-[Link](https://github.com/qgasdg/Halting-Criterion)
+**Repo:** [github.com/qgasdg/Halting-Criterion](https://github.com/qgasdg/Halting-Criterion)
+
+---
+
+### my-digital-garden
+A personal frontend design project — still a work in progress.
+
+---
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qgasdg&show_icons=true&theme=default&hide_border=true)
+
+[![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=qgasdg)](https://solved.ac/qgasdg)
