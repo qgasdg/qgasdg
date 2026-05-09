@@ -47,6 +47,4 @@ A personal frontend design project — still a work in progress.
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qgasdg&show_icons=true&theme=default&hide_border=true)
-
 [![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=qgasdg)](https://solved.ac/qgasdg)
