@@ -1,9 +1,9 @@
 # qgasdg
 
-AI / ML Research & Systems
+**AI / ML Research & Systems**
 
-Undergraduate student in AI Engineering at Inha University (Junior, Year 3).  
-Conducting research under Prof. Youngsung Kim, and working as a developer & manager at Gangsam Tutoring.
+Undergraduate student in **AI Engineering** at **Inha University** (Junior, Year 3).  
+Conducting research under **Prof. Youngsung Kim**, and working as a developer & manager at **Gangsam Tutoring**.
 
 ---
 
@@ -14,9 +14,9 @@ Conducting research under Prof. Youngsung Kim, and working as a developer & mana
 ---
 
 ### Interests
-- AI / Machine Learning
-- Frontend Design
-- Education / Psychology
+- **AI / Machine Learning**
+- **Frontend Design**
+- **Education / Psychology**
 
 ---
 
@@ -28,8 +28,8 @@ dx0802@inha.edu
 ## Featured Projects
 
 ### Halting-Criterion
-Research on adaptive computation — the goal is to let models self-determine their halting point rather than running a fixed number of steps.  
-Based on RNN and Universal Transformer architectures.
+Research on adaptive computation — the goal is to let models **self-determine their halting point** rather than running a fixed number of steps.  
+Based on **RNN** and **Universal Transformer** architectures.
 
 **Tech**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white)
@@ -41,7 +41,7 @@ Based on RNN and Universal Transformer architectures.
 ---
 
 ### my-digital-garden
-A personal frontend design project — still a work in progress.
+A personal **frontend design** project — still a work in progress.
 
 ---
 
