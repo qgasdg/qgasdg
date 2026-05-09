@@ -47,4 +47,4 @@ A personal **frontend design** project — still a work in progress.
 
 ## Stats
 
-[![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=qgasdg)](https://solved.ac/qgasdg)
+[![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=dx0802)](https://solved.ac/dx0802)
