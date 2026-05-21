@@ -64,7 +64,7 @@ Research on reasoning models.
 ---
 
 ### 📬 Contact
-dx0802@inha.edu
+📩 dx0802@inha.edu
 
 ---
 
