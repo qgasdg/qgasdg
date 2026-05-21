@@ -34,10 +34,10 @@ Research on reasoning models.
 
 ### 🏆 Awards
 
-**Silver Prize** — Inha University Programming Contest  
+🥈**Silver Prize** — Inha University Programming Contest  
 `2025.05` · Dean's Award, College of Software Convergence
 
-**Excellence Award** — Inha University AI Challenge  
+🥉**Excellence Award** — Inha University AI Challenge  
 `2025.08` · Director's Award, AI Convergence Research Center
 
 ---
