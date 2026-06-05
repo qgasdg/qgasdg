@@ -1,4 +1,4 @@
-# Hi, I'm Yun Taek 👋
+# Welcome!
 
 **Studying AI, building things, teaching people.**
 
