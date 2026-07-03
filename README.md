@@ -42,20 +42,6 @@ Research on reasoning models.
 
 ---
 
-### 🛠️ Tech Stack
-
-**AI / ML**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Lightning](https://img.shields.io/badge/Lightning-792EE5?logo=lightning&logoColor=white)
-![WandB](https://img.shields.io/badge/WandB-FFBE00?logo=weightsandbiases&logoColor=black)
-
-**Frontend**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-
----
-
 ### 💡 Interests
 - 🤖 **AI / Machine Learning**
 - 🎨 **Frontend Design**
@@ -74,22 +60,12 @@ Research on reasoning models.
 Research on adaptive computation — the goal is to let models **self-determine their halting point** rather than running a fixed number of steps.  
 Based on **RNN** and **Universal Transformer** architectures.
 
-**Tech**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Lightning](https://img.shields.io/badge/Lightning-792EE5?logo=lightning&logoColor=white)
-![WandB](https://img.shields.io/badge/WandB-FFBE00?logo=weightsandbiases&logoColor=black)
-
 **Repo:** [github.com/qgasdg/Halting-Criterion](https://github.com/qgasdg/Halting-Criterion)
 
 ---
 
 ### AI-Teacher
 AI-powered teaching assistant built for Kangsam Tutoring — handles tutoring operations and student interactions.
-
-**Tech**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 **Repo:** [github.com/qgasdg/AI-Teacher](https://github.com/qgasdg/AI-Teacher)
 
