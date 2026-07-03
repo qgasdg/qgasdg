@@ -1,3 +1,5 @@
+<div align="center">
+
 # Welcome!
 
 **Studying AI, building things, teaching people.**
@@ -87,3 +89,5 @@ Personal blog for frontend design practice and experimentation — built with Ne
     <td><a href="https://solved.ac/dx0802"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dx0802" /></a></td>
   </tr>
 </table>
+
+</div>
