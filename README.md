@@ -5,16 +5,10 @@
 **Studying AI, building things, teaching people.**
 
 Undergraduate student in **AI Engineering** at **Inha University** (Junior, Year 3).  
-Conducting research under **Prof. Youngsung Kim**, and working as a developer & manager at **Kangsam Tutoring**.
+Working as a developer & manager at **Kangsam Tutoring**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9C%A4%ED%83%9D-%EC%9E%84-23952b2b4/)
 [![Blog](https://img.shields.io/badge/Blog-orange?logo=tistory&logoColor=white)](https://dx0802.tistory.com/)
-
----
-
-### 🔨 Currently Working On
-**Halting-Criterion** — Teaching models to decide *when to stop* thinking on their own.  
-Currently building the baseline; on hold while reviewing foundational papers.
 
 ---
 
@@ -57,21 +51,6 @@ Research on reasoning models.
 ---
 
 ## 🗂️ Featured Projects
-
-### Halting-Criterion
-Research on adaptive computation — the goal is to let models **self-determine their halting point** rather than running a fixed number of steps.  
-Based on **RNN** and **Universal Transformer** architectures.
-
-**Repo:** [github.com/qgasdg/Halting-Criterion](https://github.com/qgasdg/Halting-Criterion)
-
----
-
-### AI-Teacher
-AI-powered teaching assistant built for Kangsam Tutoring — handles tutoring operations and student interactions.
-
-**Repo:** [github.com/qgasdg/AI-Teacher](https://github.com/qgasdg/AI-Teacher)
-
----
 
 ### my-digital-garden
 Personal blog for frontend design practice and experimentation — built with Next.js.
