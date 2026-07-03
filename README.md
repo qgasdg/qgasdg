@@ -29,7 +29,7 @@ Teaching students and developing AI-powered tools for tutoring operations.
 Research on feature selection and Riemannian manifold.
 
 **Prof. Youngsung Kim's Lab** — Undergraduate Researcher  
-`2026.01 – present`  
+`2026.01 – 2026.06`  
 Research on reasoning models.
 
 ---
