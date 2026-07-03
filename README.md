@@ -11,8 +11,8 @@ Conducting research under **Prof. Youngsung Kim**, and working as a developer & 
 ---
 
 ### 🔨 Currently Working On
-- **Halting-Criterion** — Teaching models to decide *when to stop* thinking on their own.  
-  Currently building the baseline; on hold while reviewing foundational papers.
+**Halting-Criterion** — Teaching models to decide *when to stop* thinking on their own.  
+Currently building the baseline; on hold while reviewing foundational papers.
 
 ---
 
@@ -43,9 +43,9 @@ Research on reasoning models.
 ---
 
 ### 💡 Interests
-- 🤖 **AI / Machine Learning**
-- 🎨 **Frontend Design**
-- 📚 **Education / Psychology**
+🤖 **AI / Machine Learning**  
+🎨 **Frontend Design**  
+📚 **Education / Psychology**
 
 ---
 
