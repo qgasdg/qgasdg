@@ -5,10 +5,6 @@
 **Studying AI, building things, teaching people.**
 
 Undergraduate student in **AI Engineering** at **Inha University** (Junior, Year 3).  
-Working as a developer & manager at **Kangsam Tutoring**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9C%A4%ED%83%9D-%EC%9E%84-23952b2b4/)
-[![Blog](https://img.shields.io/badge/Blog-orange?logo=tistory&logoColor=white)](https://dx0802.tistory.com/)
 
 ---
 
